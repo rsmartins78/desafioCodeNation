@@ -1,0 +1,15 @@
+{
+  "name": "codenationDesafio",
+  "version": "1.0.0",
+  "description": "Desafio codenation",
+  "main": "index.js",
+  "author": "Rafael Martins <rsmartins78@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
